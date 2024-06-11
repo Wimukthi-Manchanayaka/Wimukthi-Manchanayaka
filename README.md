@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Wimukthi Manchanayaka! 👋</h1>
 <h3 align="center">  I'm , a dedicated university student on a mission to master the art and science of software engineering. With a passion for problem-solving and a knack for turning ideas into reality, I'm thrilled to be at the forefront of innovation in the tech world..</h3><hr>
 
-
+<h3 align="left">Technologies I Work With:</h3>
 <table>
   <thead>
     <tr>
