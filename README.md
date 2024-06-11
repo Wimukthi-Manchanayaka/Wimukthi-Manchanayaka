@@ -52,7 +52,7 @@
       <td>...</td> <!-- Add other software tools here -->
       <td>...</td> <!-- Add other technologies in the "Other" category here -->
     </tr>
-     </tr>
+     
     <!-- Add more rows with similar structure for additional technologies -->
       <tr>
       <td> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </td> <!-- Add other programming languages here -->
