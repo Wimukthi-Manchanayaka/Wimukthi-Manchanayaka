@@ -123,7 +123,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/wimukthi-manchanayaka-93b527283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/wimukthi-manchanayaka-93b527283" height="30" width="40" /></a>
 <a href="https://fb.com/wimukthi manchanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wimukthi manchanayaka" height="30" width="40" /></a>
-</p>
+</p><hr>
 <h3 align="left">My Progress:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wimukthi-manchanayaka&show_icons=true&locale=en&layout=compact" alt="wimukthi-manchanayaka" /></p>
 
