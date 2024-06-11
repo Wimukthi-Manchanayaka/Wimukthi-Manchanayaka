@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Wimukthi Manchanayaka! 👋</h1>
 <h3 align="center">  I'm , a dedicated university student on a mission to master the art and science of software engineering. With a passion for problem-solving and a knack for turning ideas into reality, I'm thrilled to be at the forefront of innovation in the tech world..</h3><hr>
 
+
 <table>
   <thead>
     <tr>
@@ -17,7 +18,7 @@
   </thead>
   <tbody>
     <tr>
-      <td> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></td>
       <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></td>
@@ -28,21 +29,7 @@
       <td>...</td>
     </tr>
     <tr>
-      <td> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></td> <!-- Add other programming languages here -->
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></td>
-      <td>...</td> <!-- Add other AI/ML technologies here -->
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
-      <td></td> <!-- Add other DevOps tools here -->
-      <td>...</td> <!-- Add other BaaS services here -->
-      <td>...</td> <!-- Add other software tools here -->
-      <td>...</td> <!-- Add other technologies in the "Other" category here -->
-    </tr>
-
-    
-    <!-- Add more rows with similar structure for additional technologies -->
-     <tr>
-      <td> </td> <!-- Add other programming languages here -->
+      <td>...</td> <!-- Add other programming languages here -->
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></td>
       <td>...</td> <!-- Add other AI/ML technologies here -->
@@ -52,10 +39,10 @@
       <td>...</td> <!-- Add other software tools here -->
       <td>...</td> <!-- Add other technologies in the "Other" category here -->
     </tr>
+    <!-- Add more rows with similar structure for additional technologies -->
   </tbody>
 </table>
 <hr>
-
 
 
 
