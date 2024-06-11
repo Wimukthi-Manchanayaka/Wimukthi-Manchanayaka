@@ -41,7 +41,8 @@
       <td><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 </td> <!-- Add other software tools here -->
-      <td></td> <!-- Add other technologies in the "Other" category here -->
+      <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</td> <!-- Add other technologies in the "Other" category here -->
     </tr>
     <!-- Add more rows with similar structure for additional technologies -->
       <tr>
