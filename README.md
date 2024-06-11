@@ -32,7 +32,7 @@
       <td> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></td> <!-- Add other programming languages here -->
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></td>
-      <td>...</td> <!-- Add other AI/ML technologies here -->
+      <td> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </td> <!-- Add other AI/ML technologies here -->
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
       <td>...</td> <!-- Add other DevOps tools here -->
       <td>...</td> <!-- Add other BaaS services here -->
@@ -46,12 +46,12 @@
       <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
       <td>
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </td>
-      <td>...</td> <!-- Add other AI/ML technologies here -->
+      <td></td> <!-- Add other AI/ML technologies here -->
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
-      <td>...</td> <!-- Add other DevOps tools here -->
-      <td>...</td> <!-- Add other BaaS services here -->
-      <td>...</td> <!-- Add other software tools here -->
-      <td>...</td> <!-- Add other technologies in the "Other" category here -->
+      <td></td> <!-- Add other DevOps tools here -->
+      <td></td> <!-- Add other BaaS services here -->
+      <td></td> <!-- Add other software tools here -->
+      <td></td> <!-- Add other technologies in the "Other" category here -->
     </tr>
      </tr>
     <!-- Add more rows with similar structure for additional technologies -->
@@ -59,12 +59,12 @@
       <td> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </td> <!-- Add other programming languages here -->
       <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </td>
       <td></td>
-      <td>...</td> <!-- Add other AI/ML technologies here -->
+      <td></td> <!-- Add other AI/ML technologies here -->
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
-      <td>...</td> <!-- Add other DevOps tools here -->
-      <td>...</td> <!-- Add other BaaS services here -->
-      <td>...</td> <!-- Add other software tools here -->
-      <td>...</td> <!-- Add other technologies in the "Other" category here -->
+      <td></td> <!-- Add other DevOps tools here -->
+      <td></td> <!-- Add other BaaS services here -->
+      <td></td> <!-- Add other software tools here -->
+      <td></td> <!-- Add other technologies in the "Other" category here -->
     </tr>
     </tr>
     <!-- Add more rows with similar structure for additional technologies -->
@@ -72,24 +72,24 @@
       <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></td> <!-- Add other programming languages here -->
       <td></td>
       <td></td>
-      <td>...</td> <!-- Add other AI/ML technologies here -->
+      <td></td> <!-- Add other AI/ML technologies here -->
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
-      <td>...</td> <!-- Add other DevOps tools here -->
-      <td>...</td> <!-- Add other BaaS services here -->
-      <td>...</td> <!-- Add other software tools here -->
-      <td>...</td> <!-- Add other technologies in the "Other" category here -->
+      <td></td> <!-- Add other DevOps tools here -->
+      <td></td> <!-- Add other BaaS services here -->
+      <td></td> <!-- Add other software tools here -->
+      <td></td> <!-- Add other technologies in the "Other" category here -->
     </tr>
       <!-- Add more rows with similar structure for additional technologies -->
       <tr>
       <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td> <!-- Add other programming languages here -->
       <td></td>
       <td></td>
-      <td>...</td> <!-- Add other AI/ML technologies here -->
+      <td></td> <!-- Add other AI/ML technologies here -->
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
-      <td>...</td> <!-- Add other DevOps tools here -->
-      <td>...</td> <!-- Add other BaaS services here -->
-      <td>...</td> <!-- Add other software tools here -->
-      <td>...</td> <!-- Add other technologies in the "Other" category here -->
+      <td></td> <!-- Add other DevOps tools here -->
+      <td></td> <!-- Add other BaaS services here -->
+      <td></td> <!-- Add other software tools here -->
+      <td></td> <!-- Add other technologies in the "Other" category here -->
     </tr>
       <!-- Add more rows with similar structure for additional technologies -->
       <tr>
@@ -97,12 +97,12 @@
 </td> <!-- Add other programming languages here -->
       <td></td>
       <td></td>
-      <td>...</td> <!-- Add other AI/ML technologies here -->
+      <td></td> <!-- Add other AI/ML technologies here -->
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
-      <td>...</td> <!-- Add other DevOps tools here -->
-      <td>...</td> <!-- Add other BaaS services here -->
-      <td>...</td> <!-- Add other software tools here -->
-      <td>...</td> <!-- Add other technologies in the "Other" category here -->
+      <td></td> <!-- Add other DevOps tools here -->
+      <td></td> <!-- Add other BaaS services here -->
+      <td></td> <!-- Add other software tools here -->
+      <td></td> <!-- Add other technologies in the "Other" category here -->
     </tr>
   </tbody>
 </table>
