@@ -2,7 +2,7 @@
 <h3 align="center">  I'm , a dedicated university student on a mission to master the art and science of software engineering. With a passion for problem-solving and a knack for turning ideas into reality, I'm thrilled to be at the forefront of innovation in the tech world..</h3><hr>
 
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th>Programming Languages</th>
@@ -106,7 +106,7 @@
   </tbody>
 </table>
 <hr>
-
+-->
 
 
 
