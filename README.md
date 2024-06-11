@@ -52,6 +52,7 @@
       <td>...</td> <!-- Add other software tools here -->
       <td>...</td> <!-- Add other technologies in the "Other" category here -->
     </tr>
+   </tr>
      
     <!-- Add more rows with similar structure for additional technologies -->
       <tr>
