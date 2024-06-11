@@ -42,6 +42,7 @@
     <!-- Add more rows with similar structure for additional technologies -->
   </tbody>
 </table>
+<hr>
 
 
 
