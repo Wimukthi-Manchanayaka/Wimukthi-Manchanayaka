@@ -36,7 +36,9 @@
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
       <td></td> <!-- Add other DevOps tools here -->
       <td></td> <!-- Add other BaaS services here -->
-      <td></td> <!-- Add other software tools here -->
+      <td><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+
+</td> <!-- Add other software tools here -->
       <td></td> <!-- Add other technologies in the "Other" category here -->
     </tr>
     <!-- Add more rows with similar structure for additional technologies -->
